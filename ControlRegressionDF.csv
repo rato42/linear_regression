@@ -1,0 +1,217 @@
+date,variavel,valores,periodo,Pandemia_Step,Choque_Inicial,Pandemia_Trend,Lockdown_2021,Trend_PosPandemia,isSaudeMental
+2020-07-01,__Atendimentos na APS (exceto saúde mental),127570,55,0,1,0,0,0,0
+2018-11-01,__Atendimentos na APS (exceto saúde mental),135169,35,0,0,0,0,0,0
+2019-01-01,__Atendimentos na APS (exceto saúde mental),134804,37,0,0,0,0,0,0
+2019-02-01,__Atendimentos na APS (exceto saúde mental),131051,38,0,0,0,0,0,0
+2019-03-01,__Atendimentos na APS (exceto saúde mental),129019,39,0,0,0,0,0,0
+2019-04-01,__Atendimentos na APS (exceto saúde mental),157196,40,0,0,0,0,0,0
+2019-05-01,__Atendimentos na APS (exceto saúde mental),164431,41,0,0,0,0,0,0
+2019-06-01,__Atendimentos na APS (exceto saúde mental),141871,42,0,0,0,0,0,0
+2019-07-01,__Atendimentos na APS (exceto saúde mental),159215,43,0,0,0,0,0,0
+2019-08-01,__Atendimentos na APS (exceto saúde mental),153825,44,0,0,0,0,0,0
+2019-09-01,__Atendimentos na APS (exceto saúde mental),119253,45,0,0,0,0,0,0
+2019-10-01,__Atendimentos na APS (exceto saúde mental),131196,46,0,0,0,0,0,0
+2019-11-01,__Atendimentos na APS (exceto saúde mental),106229,47,0,0,0,0,0,0
+2019-12-01,__Atendimentos na APS (exceto saúde mental),93659,48,0,0,0,0,0,0
+2020-01-01,__Atendimentos na APS (exceto saúde mental),119860,49,1,0,1,0,0,0
+2020-02-01,__Atendimentos na APS (exceto saúde mental),107686,50,1,0,2,0,0,0
+2020-03-01,__Atendimentos na APS (exceto saúde mental),114828,51,0,1,0,0,0,0
+2020-04-01,__Atendimentos na APS (exceto saúde mental),86377,52,0,1,0,0,0,0
+2020-05-01,__Atendimentos na APS (exceto saúde mental),98407,53,0,1,0,0,0,0
+2020-06-01,__Atendimentos na APS (exceto saúde mental),115381,54,0,1,0,0,0,0
+2020-08-01,__Atendimentos na APS (exceto saúde mental),135439,56,1,0,8,0,0,0
+2020-09-01,__Atendimentos na APS (exceto saúde mental),147355,57,1,0,9,0,0,0
+2020-10-01,__Atendimentos na APS (exceto saúde mental),155600,58,1,0,10,0,0,0
+2018-12-01,__Atendimentos na APS (exceto saúde mental),114358,36,0,0,0,0,0,0
+2018-10-01,__Atendimentos na APS (exceto saúde mental),161964,34,0,0,0,0,0,0
+2016-10-01,__Atendimentos na APS (exceto saúde mental),122986,10,0,0,0,0,0,0
+2018-09-01,__Atendimentos na APS (exceto saúde mental),123428,33,0,0,0,0,0,0
+2016-12-01,__Atendimentos na APS (exceto saúde mental),86493,12,0,0,0,0,0,0
+2017-01-01,__Atendimentos na APS (exceto saúde mental),95891,13,0,0,0,0,0,0
+2017-02-01,__Atendimentos na APS (exceto saúde mental),78437,14,0,0,0,0,0,0
+2017-03-01,__Atendimentos na APS (exceto saúde mental),123378,15,0,0,0,0,0,0
+2017-04-01,__Atendimentos na APS (exceto saúde mental),107450,16,0,0,0,0,0,0
+2017-05-01,__Atendimentos na APS (exceto saúde mental),124783,17,0,0,0,0,0,0
+2017-06-01,__Atendimentos na APS (exceto saúde mental),116262,18,0,0,0,0,0,0
+2017-07-01,__Atendimentos na APS (exceto saúde mental),114118,19,0,0,0,0,0,0
+2017-08-01,__Atendimentos na APS (exceto saúde mental),122593,20,0,0,0,0,0,0
+2017-09-01,__Atendimentos na APS (exceto saúde mental),116314,21,0,0,0,0,0,0
+2017-10-01,__Atendimentos na APS (exceto saúde mental),116265,22,0,0,0,0,0,0
+2017-11-01,__Atendimentos na APS (exceto saúde mental),121010,23,0,0,0,0,0,0
+2017-12-01,__Atendimentos na APS (exceto saúde mental),110927,24,0,0,0,0,0,0
+2018-01-01,__Atendimentos na APS (exceto saúde mental),122947,25,0,0,0,0,0,0
+2018-02-01,__Atendimentos na APS (exceto saúde mental),97921,26,0,0,0,0,0,0
+2018-03-01,__Atendimentos na APS (exceto saúde mental),130705,27,0,0,0,0,0,0
+2018-04-01,__Atendimentos na APS (exceto saúde mental),140568,28,0,0,0,0,0,0
+2018-05-01,__Atendimentos na APS (exceto saúde mental),140530,29,0,0,0,0,0,0
+2018-06-01,__Atendimentos na APS (exceto saúde mental),129175,30,0,0,0,0,0,0
+2018-07-01,__Atendimentos na APS (exceto saúde mental),135373,31,0,0,0,0,0,0
+2018-08-01,__Atendimentos na APS (exceto saúde mental),145679,32,0,0,0,0,0,0
+2020-11-01,__Atendimentos na APS (exceto saúde mental),169745,59,1,0,11,0,0,0
+2020-12-01,__Atendimentos na APS (exceto saúde mental),164330,60,1,0,12,0,0,0
+2021-01-01,__Atendimentos na APS (exceto saúde mental),166373,61,1,0,13,0,0,0
+2021-02-01,__Atendimentos na APS (exceto saúde mental),172035,62,1,0,14,0,0,0
+2023-03-01,__Atendimentos na APS (exceto saúde mental),254708,87,0,0,0,0,15,0
+2023-04-01,__Atendimentos na APS (exceto saúde mental),228121,88,0,0,0,0,16,0
+2023-05-01,__Atendimentos na APS (exceto saúde mental),288167,89,0,0,0,0,17,0
+2023-06-01,__Atendimentos na APS (exceto saúde mental),242851,90,0,0,0,0,18,0
+2023-07-01,__Atendimentos na APS (exceto saúde mental),234264,91,0,0,0,0,19,0
+2023-08-01,__Atendimentos na APS (exceto saúde mental),268477,92,0,0,0,0,20,0
+2023-09-01,__Atendimentos na APS (exceto saúde mental),207192,93,0,0,0,0,21,0
+2023-10-01,__Atendimentos na APS (exceto saúde mental),255622,94,0,0,0,0,22,0
+2023-11-01,__Atendimentos na APS (exceto saúde mental),239556,95,0,0,0,0,23,0
+2023-12-01,__Atendimentos na APS (exceto saúde mental),232490,96,0,0,0,0,24,0
+2024-01-01,__Atendimentos na APS (exceto saúde mental),235276,97,0,0,0,0,25,0
+2024-02-01,__Atendimentos na APS (exceto saúde mental),214956,98,0,0,0,0,26,0
+2024-03-01,__Atendimentos na APS (exceto saúde mental),249689,99,0,0,0,0,27,0
+2024-04-01,__Atendimentos na APS (exceto saúde mental),287853,100,0,0,0,0,28,0
+2024-05-01,__Atendimentos na APS (exceto saúde mental),188822,101,0,0,0,0,29,0
+2024-06-01,__Atendimentos na APS (exceto saúde mental),238007,102,0,0,0,0,30,0
+2024-07-01,__Atendimentos na APS (exceto saúde mental),265185,103,0,0,0,0,31,0
+2024-08-01,__Atendimentos na APS (exceto saúde mental),265231,104,0,0,0,0,32,0
+2024-09-01,__Atendimentos na APS (exceto saúde mental),253097,105,0,0,0,0,33,0
+2024-10-01,__Atendimentos na APS (exceto saúde mental),292153,106,0,0,0,0,34,0
+2024-11-01,__Atendimentos na APS (exceto saúde mental),235030,107,0,0,0,0,35,0
+2023-02-01,__Atendimentos na APS (exceto saúde mental),180244,86,0,0,0,0,14,0
+2023-01-01,__Atendimentos na APS (exceto saúde mental),228896,85,0,0,0,0,13,0
+2022-12-01,__Atendimentos na APS (exceto saúde mental),247284,84,0,0,0,0,12,0
+2021-12-01,__Atendimentos na APS (exceto saúde mental),212460,72,1,0,24,0,0,0
+2021-03-01,__Atendimentos na APS (exceto saúde mental),199666,63,1,0,15,0,0,0
+2021-04-01,__Atendimentos na APS (exceto saúde mental),114545,64,0,0,0,1,0,0
+2021-05-01,__Atendimentos na APS (exceto saúde mental),48459,65,0,0,0,1,0,0
+2021-06-01,__Atendimentos na APS (exceto saúde mental),197574,66,1,0,18,0,0,0
+2021-07-01,__Atendimentos na APS (exceto saúde mental),206553,67,1,0,19,0,0,0
+2021-08-01,__Atendimentos na APS (exceto saúde mental),218736,68,1,0,20,0,0,0
+2021-09-01,__Atendimentos na APS (exceto saúde mental),207100,69,1,0,21,0,0,0
+2021-10-01,__Atendimentos na APS (exceto saúde mental),221887,70,1,0,22,0,0,0
+2021-11-01,__Atendimentos na APS (exceto saúde mental),205926,71,1,0,23,0,0,0
+2022-01-01,__Atendimentos na APS (exceto saúde mental),261339,73,0,0,0,0,1,0
+2022-11-01,__Atendimentos na APS (exceto saúde mental),237029,83,0,0,0,0,11,0
+2022-02-01,__Atendimentos na APS (exceto saúde mental),191748,74,0,0,0,0,2,0
+2022-03-01,__Atendimentos na APS (exceto saúde mental),229566,75,0,0,0,0,3,0
+2022-04-01,__Atendimentos na APS (exceto saúde mental),199671,76,0,0,0,0,4,0
+2022-05-01,__Atendimentos na APS (exceto saúde mental),240772,77,0,0,0,0,5,0
+2022-06-01,__Atendimentos na APS (exceto saúde mental),241851,78,0,0,0,0,6,0
+2022-07-01,__Atendimentos na APS (exceto saúde mental),231227,79,0,0,0,0,7,0
+2022-08-01,__Atendimentos na APS (exceto saúde mental),244566,80,0,0,0,0,8,0
+2022-09-01,__Atendimentos na APS (exceto saúde mental),215775,81,0,0,0,0,9,0
+2022-10-01,__Atendimentos na APS (exceto saúde mental),224278,82,0,0,0,0,10,0
+2016-11-01,__Atendimentos na APS (exceto saúde mental),91588,11,0,0,0,0,0,0
+2024-12-01,__Atendimentos na APS (exceto saúde mental),220687,108,0,0,0,0,36,0
+2016-06-01,__Atendimentos na APS (exceto saúde mental),122526,6,0,0,0,0,0,0
+2016-07-01,__Atendimentos na APS (exceto saúde mental),115321,7,0,0,0,0,0,0
+2016-03-01,__Atendimentos na APS (exceto saúde mental),107801,3,0,0,0,0,0,0
+2016-05-01,__Atendimentos na APS (exceto saúde mental),120012,5,0,0,0,0,0,0
+2016-02-01,__Atendimentos na APS (exceto saúde mental),71969,2,0,0,0,0,0,0
+2016-04-01,__Atendimentos na APS (exceto saúde mental),88941,4,0,0,0,0,0,0
+2016-09-01,__Atendimentos na APS (exceto saúde mental),120650,9,0,0,0,0,0,0
+2016-08-01,__Atendimentos na APS (exceto saúde mental),147190,8,0,0,0,0,0,0
+2016-01-01,__Atendimentos na APS (exceto saúde mental),74093,1,0,0,0,0,0,0
+2017-09-01,_Grand Total,6183,21,0,0,0,0,0,1
+2019-06-01,_Grand Total,6429,42,0,0,0,0,0,1
+2023-08-01,_Grand Total,13593,92,0,0,0,0,20,1
+2021-09-01,_Grand Total,8039,69,1,0,21,0,0,1
+2020-01-01,_Grand Total,5346,49,1,0,1,0,0,1
+2024-04-01,_Grand Total,14928,100,0,0,0,0,28,1
+2023-12-01,_Grand Total,12965,96,0,0,0,0,24,1
+2022-08-01,_Grand Total,8849,80,0,0,0,0,8,1
+2024-05-01,_Grand Total,10622,101,0,0,0,0,29,1
+2017-05-01,_Grand Total,6891,17,0,0,0,0,0,1
+2023-07-01,_Grand Total,11392,91,0,0,0,0,19,1
+2019-03-01,_Grand Total,5820,39,0,0,0,0,0,1
+2017-04-01,_Grand Total,5931,16,0,0,0,0,0,1
+2020-02-01,_Grand Total,4672,50,1,0,2,0,0,1
+2021-08-01,_Grand Total,8425,68,1,0,20,0,0,1
+2019-08-01,_Grand Total,7266,44,0,0,0,0,0,1
+2020-03-01,_Grand Total,4154,51,0,1,0,0,0,1
+2016-08-01,_Grand Total,9440,8,0,0,0,0,0,1
+2024-06-01,_Grand Total,13097,102,0,0,0,0,30,1
+2019-02-01,_Grand Total,6202,38,0,0,0,0,0,1
+2016-07-01,_Grand Total,7944,7,0,0,0,0,0,1
+2021-07-01,_Grand Total,8100,67,1,0,19,0,0,1
+2018-03-01,_Grand Total,7009,27,0,0,0,0,0,1
+2016-02-01,_Grand Total,4300,2,0,0,0,0,0,1
+2017-03-01,_Grand Total,7545,15,0,0,0,0,0,1
+2024-07-01,_Grand Total,14441,103,0,0,0,0,31,1
+2016-04-01,_Grand Total,5279,4,0,0,0,0,0,1
+2020-04-01,_Grand Total,3680,52,0,1,0,0,0,1
+2017-10-01,_Grand Total,6093,22,0,0,0,0,0,1
+2018-02-01,_Grand Total,5229,26,0,0,0,0,0,1
+2019-04-01,_Grand Total,7001,40,0,0,0,0,0,1
+2021-10-01,_Grand Total,8227,70,1,0,22,0,0,1
+2021-11-01,_Grand Total,7684,71,1,0,23,0,0,1
+2023-11-01,_Grand Total,13533,95,0,0,0,0,23,1
+2019-09-01,_Grand Total,5944,45,0,0,0,0,0,1
+2024-01-01,_Grand Total,13476,97,0,0,0,0,25,1
+2021-12-01,_Grand Total,7794,72,1,0,24,0,0,1
+2022-04-01,_Grand Total,6690,76,0,0,0,0,4,1
+2024-02-01,_Grand Total,12158,98,0,0,0,0,26,1
+2022-01-01,_Grand Total,4461,73,0,0,0,0,1,1
+2017-08-01,_Grand Total,6652,20,0,0,0,0,0,1
+2017-11-01,_Grand Total,6489,23,0,0,0,0,0,1
+2017-12-01,_Grand Total,5885,24,0,0,0,0,0,1
+2022-05-01,_Grand Total,7519,77,0,0,0,0,5,1
+2019-10-01,_Grand Total,6536,46,0,0,0,0,0,1
+2019-11-01,_Grand Total,5133,47,0,0,0,0,0,1
+2017-06-01,_Grand Total,6380,18,0,0,0,0,0,1
+2023-10-01,_Grand Total,13693,94,0,0,0,0,22,1
+2019-05-01,_Grand Total,7720,41,0,0,0,0,0,1
+2023-09-01,_Grand Total,11136,93,0,0,0,0,21,1
+2016-01-01,_Grand Total,4004,1,0,0,0,0,0,1
+2019-07-01,_Grand Total,7416,43,0,0,0,0,0,1
+2017-07-01,_Grand Total,6242,19,0,0,0,0,0,1
+2019-12-01,_Grand Total,4494,48,0,0,0,0,0,1
+2024-03-01,_Grand Total,13252,99,0,0,0,0,27,1
+2018-01-01,_Grand Total,5917,25,0,0,0,0,0,1
+2016-06-01,_Grand Total,8146,6,0,0,0,0,0,1
+2022-03-01,_Grand Total,8563,75,0,0,0,0,3,1
+2022-07-01,_Grand Total,7948,79,0,0,0,0,7,1
+2022-06-01,_Grand Total,7764,78,0,0,0,0,6,1
+2023-02-01,_Grand Total,8293,86,0,0,0,0,14,1
+2022-09-01,_Grand Total,8463,81,0,0,0,0,9,1
+2022-10-01,_Grand Total,9308,82,0,0,0,0,10,1
+2021-03-01,_Grand Total,6096,63,1,0,15,0,0,1
+2022-11-01,_Grand Total,9401,83,0,0,0,0,11,1
+2020-07-01,_Grand Total,5083,55,0,1,0,0,0,1
+2016-12-01,_Grand Total,5751,12,0,0,0,0,0,1
+2016-09-01,_Grand Total,8060,9,0,0,0,0,0,1
+2018-04-01,_Grand Total,7236,28,0,0,0,0,0,1
+2020-08-01,_Grand Total,5679,56,1,0,8,0,0,1
+2018-06-01,_Grand Total,6261,30,0,0,0,0,0,1
+2021-02-01,_Grand Total,6067,62,1,0,14,0,0,1
+2016-11-01,_Grand Total,5989,11,0,0,0,0,0,1
+2024-10-01,_Grand Total,17435,106,0,0,0,0,34,1
+2018-11-01,_Grand Total,6729,35,0,0,0,0,0,1
+2018-07-01,_Grand Total,6386,31,0,0,0,0,0,1
+2024-11-01,_Grand Total,14082,107,0,0,0,0,35,1
+2016-05-01,_Grand Total,6968,5,0,0,0,0,0,1
+2020-09-01,_Grand Total,6507,57,1,0,9,0,0,1
+2022-12-01,_Grand Total,9091,84,0,0,0,0,12,1
+2021-01-01,_Grand Total,6359,61,1,0,13,0,0,1
+2023-04-01,_Grand Total,9734,88,0,0,0,0,16,1
+2018-10-01,_Grand Total,7819,34,0,0,0,0,0,1
+2016-10-01,_Grand Total,7662,10,0,0,0,0,0,1
+2018-08-01,_Grand Total,7062,32,0,0,0,0,0,1
+2023-03-01,_Grand Total,11363,87,0,0,0,0,15,1
+2020-12-01,_Grand Total,6464,60,1,0,12,0,0,1
+2023-01-01,_Grand Total,10232,85,0,0,0,0,13,1
+2020-10-01,_Grand Total,6689,58,1,0,10,0,0,1
+2020-11-01,_Grand Total,6764,59,1,0,11,0,0,1
+2024-12-01,_Grand Total,13405,108,0,0,0,0,36,1
+2018-09-01,_Grand Total,6310,33,0,0,0,0,0,1
+2024-09-01,_Grand Total,13509,105,0,0,0,0,33,1
+2022-02-01,_Grand Total,5908,74,0,0,0,0,2,1
+2023-05-01,_Grand Total,11795,89,0,0,0,0,17,1
+2021-05-01,_Grand Total,1744,65,0,0,0,1,0,1
+2021-04-01,_Grand Total,4274,64,0,0,0,1,0,1
+2018-05-01,_Grand Total,7008,29,0,0,0,0,0,1
+2018-12-01,_Grand Total,5946,36,0,0,0,0,0,1
+2020-06-01,_Grand Total,5021,54,0,1,0,0,0,1
+2023-06-01,_Grand Total,10642,90,0,0,0,0,18,1
+2020-05-01,_Grand Total,4576,53,0,1,0,0,0,1
+2021-06-01,_Grand Total,7511,66,1,0,18,0,0,1
+2017-01-01,_Grand Total,5507,13,0,0,0,0,0,1
+2016-03-01,_Grand Total,5822,3,0,0,0,0,0,1
+2024-08-01,_Grand Total,14690,104,0,0,0,0,32,1
+2017-02-01,_Grand Total,5082,14,0,0,0,0,0,1
+2019-01-01,_Grand Total,6737,37,0,0,0,0,0,1
