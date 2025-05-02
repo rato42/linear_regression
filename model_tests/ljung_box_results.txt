@@ -1,0 +1,66 @@
+
+----------------------------------------
+Região: Brasil 
+Testes Ljung-Box para resíduos:
+
+Lag  1: p-valor = 0.9401
+Lag  9: p-valor = 0.8695
+Lag 12: p-valor = 0.8903
+Lag 24: p-valor = 0.4970
+Lag 25: p-valor = 0.5531
+Gráficos e testes gerados para: Brasil 
+
+----------------------------------------
+Região: centro_oeste 
+Testes Ljung-Box para resíduos:
+
+Lag  1: p-valor = 0.8946
+Lag  9: p-valor = 0.1413
+Lag 12: p-valor = 0.2205
+Lag 24: p-valor = 0.2085
+Lag 25: p-valor = 0.2339
+Gráficos e testes gerados para: centro_oeste 
+
+----------------------------------------
+Região: nordeste 
+Testes Ljung-Box para resíduos:
+
+Lag  1: p-valor = 0.9893
+Lag  9: p-valor = 0.9037
+Lag 12: p-valor = 0.9314
+Lag 24: p-valor = 0.9554
+Lag 25: p-valor = 0.9330
+Gráficos e testes gerados para: nordeste 
+
+----------------------------------------
+Região: norte 
+Testes Ljung-Box para resíduos:
+
+Lag  1: p-valor = 0.8113
+Lag  9: p-valor = 0.8579
+Lag 12: p-valor = 0.9122
+Lag 24: p-valor = 0.6271
+Lag 25: p-valor = 0.6593
+Gráficos e testes gerados para: norte 
+
+----------------------------------------
+Região: sudeste 
+Testes Ljung-Box para resíduos:
+
+Lag  1: p-valor = 0.8656
+Lag  9: p-valor = 0.0409 *
+Lag 12: p-valor = 0.1000
+Lag 24: p-valor = 0.0188 *
+Lag 25: p-valor = 0.0218 *
+Gráficos e testes gerados para: sudeste 
+
+----------------------------------------
+Região: sul 
+Testes Ljung-Box para resíduos:
+
+Lag  1: p-valor = 0.9904
+Lag  9: p-valor = 0.2441
+Lag 12: p-valor = 0.4780
+Lag 24: p-valor = 0.4421
+Lag 25: p-valor = 0.4992
+Gráficos e testes gerados para: sul 
