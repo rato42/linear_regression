@@ -1,0 +1,432 @@
+sul: alpha ≃ 0.0033, phi ≃ 431.98
+Results for sul:
+ AIC: 2210.29144099087
+BIC recalculado: 2231.7484908078636
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -1097.1
+Date:                  Fri, 09 May 2025   Deviance:                       104.32
+Time:                          22:57:23   Pearson chi2:                     102.
+No. Iterations:                       5   Pseudo R-squ. (CS):             0.8514
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept             3.1794      0.013    245.591      0.000       3.154       3.205
+periodo               0.0019      0.001      3.244      0.001       0.001       0.003
+Pandemia_Step         0.1783      0.041      4.373      0.000       0.098       0.258
+Pandemia_Trend       -0.0128      0.003     -4.586      0.000      -0.018      -0.007
+PosPandemia_Step     -0.0463      0.045     -1.031      0.302      -0.134       0.042
+PosPandemia_Trend     0.0033      0.002      2.120      0.034       0.000       0.006
+cos1_12               0.0064      0.010      0.624      0.532      -0.014       0.026
+sin1_12              -0.0147      0.009     -1.658      0.097      -0.032       0.003
+=====================================================================================
+sudeste: alpha ≃ 0.0023, phi ≃ 668.95
+Results for sudeste:
+ AIC: 2376.4757893689675
+BIC recalculado: 2397.9328391859613
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -1180.2
+Date:                  Fri, 09 May 2025   Deviance:                       206.67
+Time:                          22:57:23   Pearson chi2:                     212.
+No. Iterations:                       7   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept             2.4364      0.042     57.542      0.000       2.353       2.519
+periodo               0.0159      0.001     13.354      0.000       0.014       0.018
+Pandemia_Step         0.1216      0.045      2.700      0.007       0.033       0.210
+Pandemia_Trend       -0.0196      0.003     -6.840      0.000      -0.025      -0.014
+PosPandemia_Step     -0.3160      0.054     -5.804      0.000      -0.423      -0.209
+PosPandemia_Trend    -0.0102      0.001     -6.856      0.000      -0.013      -0.007
+cos1_12               0.0110      0.012      0.893      0.372      -0.013       0.035
+sin1_12              -0.0264      0.011     -2.363      0.018      -0.048      -0.005
+=====================================================================================
+norte: alpha ≃ 0.0026, phi ≃ 93.08
+Results for norte:
+ AIC: 1917.5965163899455
+BIC recalculado: 1939.0535662069392
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -950.80
+Date:                  Fri, 09 May 2025   Deviance:                       253.87
+Time:                          22:57:23   Pearson chi2:                     259.
+No. Iterations:                       6   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept             1.6800      0.038     44.201      0.000       1.606       1.755
+periodo               0.0172      0.001     15.986      0.000       0.015       0.019
+Pandemia_Step        -0.0357      0.094     -0.381      0.703      -0.219       0.148
+Pandemia_Trend       -0.0105      0.005     -2.012      0.044      -0.021      -0.000
+PosPandemia_Step     -0.2573      0.053     -4.854      0.000      -0.361      -0.153
+PosPandemia_Trend    -0.0011      0.001     -0.824      0.410      -0.004       0.001
+cos1_12              -0.0259      0.014     -1.819      0.069      -0.054       0.002
+sin1_12              -0.0213      0.015     -1.422      0.155      -0.051       0.008
+=====================================================================================
+nordeste: alpha ≃ 0.0031, phi ≃ 393.37
+Results for nordeste:
+ AIC: 2161.004988046625
+BIC recalculado: 2182.4620378636187
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -1072.5
+Date:                  Fri, 09 May 2025   Deviance:                       135.82
+Time:                          22:57:24   Pearson chi2:                     136.
+No. Iterations:                       6   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept             1.7202      0.022     78.868      0.000       1.677       1.763
+periodo               0.0195      0.001     21.898      0.000       0.018       0.021
+Pandemia_Step         0.2810      0.049      5.742      0.000       0.185       0.377
+Pandemia_Trend       -0.0181      0.003     -6.051      0.000      -0.024      -0.012
+PosPandemia_Step     -0.0618      0.057     -1.091      0.275      -0.173       0.049
+PosPandemia_Trend    -0.0060      0.002     -3.716      0.000      -0.009      -0.003
+cos1_12               0.0277      0.011      2.515      0.012       0.006       0.049
+sin1_12              -0.0279      0.012     -2.321      0.020      -0.051      -0.004
+=====================================================================================
+centro_oeste: alpha ≃ 0.0045, phi ≃ 233.78
+Results for centro_oeste:
+ AIC: 2035.6432775228313
+BIC recalculado: 2057.100327339825
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -1009.8
+Date:                  Fri, 09 May 2025   Deviance:                       170.14
+Time:                          22:57:24   Pearson chi2:                     168.
+No. Iterations:                       7   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept             2.3667      0.041     57.881      0.000       2.287       2.447
+periodo               0.0189      0.001     14.828      0.000       0.016       0.021
+Pandemia_Step        -0.0437      0.075     -0.579      0.562      -0.192       0.104
+Pandemia_Trend       -0.0221      0.004     -6.005      0.000      -0.029      -0.015
+PosPandemia_Step     -0.4920      0.072     -6.868      0.000      -0.632      -0.352
+PosPandemia_Trend    -0.0156      0.002    -10.010      0.000      -0.019      -0.013
+cos1_12              -0.0208      0.016     -1.315      0.188      -0.052       0.010
+sin1_12              -0.0384      0.017     -2.277      0.023      -0.072      -0.005
+=====================================================================================
+F99_F99: alpha ≃ 0.0071, phi ≃ 175.24
+Results for F99_F99:
+ AIC: 1932.135589622707
+BIC recalculado: 1953.5926394397006
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -958.07
+Date:                  Fri, 09 May 2025   Deviance:                       167.81
+Time:                          22:57:24   Pearson chi2:                     174.
+No. Iterations:                       6   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept            -1.3472      0.064    -20.919      0.000      -1.473      -1.221
+periodo               0.0273      0.002     15.195      0.000       0.024       0.031
+Pandemia_Step         0.3762      0.097      3.896      0.000       0.187       0.565
+Pandemia_Trend       -0.0478      0.006     -8.280      0.000      -0.059      -0.036
+PosPandemia_Step     -0.6540      0.087     -7.501      0.000      -0.825      -0.483
+PosPandemia_Trend    -0.0269      0.002    -11.422      0.000      -0.032      -0.022
+cos1_12               0.0178      0.018      0.982      0.326      -0.018       0.053
+sin1_12               0.0215      0.023      0.917      0.359      -0.024       0.068
+=====================================================================================
+F90_F98: alpha ≃ 0.0029, phi ≃ 116.68
+Results for F90_F98:
+ AIC: 1930.43848361836
+BIC recalculado: 1951.8955334353536
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -957.22
+Date:                  Fri, 09 May 2025   Deviance:                       199.81
+Time:                          22:57:24   Pearson chi2:                     194.
+No. Iterations:                       6   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept            -0.3377      0.031    -11.011      0.000      -0.398      -0.278
+periodo               0.0078      0.001      9.256      0.000       0.006       0.009
+Pandemia_Step        -0.2917      0.037     -7.919      0.000      -0.364      -0.220
+Pandemia_Trend        0.0034      0.003      1.322      0.186      -0.002       0.008
+PosPandemia_Step     -0.1967      0.046     -4.320      0.000      -0.286      -0.107
+PosPandemia_Trend     0.0142      0.001     10.823      0.000       0.012       0.017
+cos1_12              -0.0413      0.013     -3.224      0.001      -0.066      -0.016
+sin1_12              -0.0224      0.013     -1.741      0.082      -0.048       0.003
+=====================================================================================
+F80_F89: alpha ≃ 0.0034, phi ≃ 228.42
+Results for F80_F89:
+ AIC: 2143.2946091187696
+BIC recalculado: 2164.7516589357633
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -1063.6
+Date:                  Fri, 09 May 2025   Deviance:                       362.69
+Time:                          22:57:24   Pearson chi2:                     341.
+No. Iterations:                       8   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept            -0.5191      0.034    -15.215      0.000      -0.586      -0.452
+periodo               0.0148      0.001     13.199      0.000       0.013       0.017
+Pandemia_Step        -0.8149      0.143     -5.687      0.000      -1.096      -0.534
+Pandemia_Trend        0.0341      0.009      3.629      0.000       0.016       0.053
+PosPandemia_Step     -0.1370      0.064     -2.156      0.031      -0.261      -0.012
+PosPandemia_Trend     0.0076      0.002      4.505      0.000       0.004       0.011
+cos1_12              -0.0674      0.019     -3.596      0.000      -0.104      -0.031
+sin1_12              -0.0198      0.018     -1.080      0.280      -0.056       0.016
+=====================================================================================
+F70_F79: alpha ≃ 0.0033, phi ≃ 45.28
+Results for F70_F79:
+ AIC: 1710.114016635136
+BIC recalculado: 1731.5710664521298
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -847.06
+Date:                  Fri, 09 May 2025   Deviance:                       149.37
+Time:                          22:57:24   Pearson chi2:                     146.
+No. Iterations:                       6   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept            -1.3356      0.033    -40.283      0.000      -1.401      -1.271
+periodo               0.0124      0.001     12.751      0.000       0.010       0.014
+Pandemia_Step        -0.2901      0.044     -6.598      0.000      -0.376      -0.204
+Pandemia_Trend        0.0022      0.003      0.644      0.519      -0.005       0.009
+PosPandemia_Step     -0.2903      0.050     -5.813      0.000      -0.388      -0.192
+PosPandemia_Trend    -0.0033      0.001     -2.334      0.020      -0.006      -0.001
+cos1_12               0.0001      0.012      0.010      0.992      -0.024       0.024
+sin1_12              -0.0097      0.011     -0.873      0.383      -0.031       0.012
+=====================================================================================
+F60_F69: alpha ≃ 0.0023, phi ≃ 14.98
+Results for F60_F69:
+ AIC: 1518.7299573114024
+BIC recalculado: 1540.187007128396
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -751.36
+Date:                  Fri, 09 May 2025   Deviance:                       187.75
+Time:                          22:57:24   Pearson chi2:                     190.
+No. Iterations:                       6   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept            -2.6778      0.049    -54.927      0.000      -2.773      -2.582
+periodo               0.0205      0.001     15.178      0.000       0.018       0.023
+Pandemia_Step         0.0625      0.036      1.758      0.079      -0.007       0.132
+Pandemia_Trend       -0.0165      0.002     -6.783      0.000      -0.021      -0.012
+PosPandemia_Step     -0.4587      0.065     -7.089      0.000      -0.586      -0.332
+PosPandemia_Trend    -0.0065      0.002     -3.315      0.001      -0.010      -0.003
+cos1_12              -0.0045      0.012     -0.364      0.716      -0.028       0.020
+sin1_12              -0.0413      0.011     -3.818      0.000      -0.062      -0.020
+=====================================================================================
+F50_F59: alpha ≃ 0.0021, phi ≃ 38.06
+Results for F50_F59:
+ AIC: 1743.8122920662427
+BIC recalculado: 1765.2693418832364
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -863.91
+Date:                  Fri, 09 May 2025   Deviance:                       131.23
+Time:                          22:57:24   Pearson chi2:                     130.
+No. Iterations:                       6   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept            -0.7686      0.020    -38.131      0.000      -0.808      -0.729
+periodo               0.0107      0.001     17.451      0.000       0.010       0.012
+Pandemia_Step         0.3802      0.032     11.871      0.000       0.317       0.443
+Pandemia_Trend       -0.0321      0.002    -14.134      0.000      -0.037      -0.028
+PosPandemia_Step     -0.3506      0.032    -10.824      0.000      -0.414      -0.287
+PosPandemia_Trend    -0.0109      0.001    -11.778      0.000      -0.013      -0.009
+cos1_12              -0.0150      0.008     -1.773      0.076      -0.031       0.002
+sin1_12              -0.0324      0.008     -3.857      0.000      -0.049      -0.016
+=====================================================================================
+F40_F48: alpha ≃ 0.0028, phi ≃ 778.36
+Results for F40_F48:
+ AIC: 2321.0179981424008
+BIC recalculado: 2342.4750479593945
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -1152.5
+Date:                  Fri, 09 May 2025   Deviance:                       132.17
+Time:                          22:57:24   Pearson chi2:                     130.
+No. Iterations:                       7   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept             1.2987      0.023     56.561      0.000       1.254       1.344
+periodo               0.0178      0.001     26.545      0.000       0.016       0.019
+Pandemia_Step         0.2436      0.048      5.029      0.000       0.149       0.339
+Pandemia_Trend       -0.0187      0.003     -6.008      0.000      -0.025      -0.013
+PosPandemia_Step     -0.1193      0.041     -2.898      0.004      -0.200      -0.039
+PosPandemia_Trend    -0.0091      0.001     -6.424      0.000      -0.012      -0.006
+cos1_12               0.0172      0.011      1.582      0.114      -0.004       0.039
+sin1_12              -0.0318      0.010     -3.126      0.002      -0.052      -0.012
+=====================================================================================
+F30_F39: alpha ≃ 0.0023, phi ≃ 324.55
+Results for F30_F39:
+ AIC: 2195.6063543830533
+BIC recalculado: 2217.063404200047
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -1089.8
+Date:                  Fri, 09 May 2025   Deviance:                       129.55
+Time:                          22:57:24   Pearson chi2:                     129.
+No. Iterations:                       5   Pseudo R-squ. (CS):             0.9987
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept             1.4590      0.014    103.107      0.000       1.431       1.487
+periodo               0.0072      0.000     14.920      0.000       0.006       0.008
+Pandemia_Step         0.2087      0.050      4.139      0.000       0.110       0.308
+Pandemia_Trend       -0.0215      0.003     -6.273      0.000      -0.028      -0.015
+PosPandemia_Step     -0.2394      0.030     -7.985      0.000      -0.298      -0.181
+PosPandemia_Trend    -0.0084      0.001     -9.537      0.000      -0.010      -0.007
+cos1_12               0.0244      0.008      2.894      0.004       0.008       0.041
+sin1_12              -0.0363      0.009     -3.887      0.000      -0.055      -0.018
+=====================================================================================
+F20_F29: alpha ≃ 0.0031, phi ≃ 130.61
+Results for F20_F29:
+ AIC: 1983.086019899958
+BIC recalculado: 2004.5430697169518
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -983.54
+Date:                  Fri, 09 May 2025   Deviance:                       183.02
+Time:                          22:57:24   Pearson chi2:                     192.
+No. Iterations:                       6   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept            -0.1436      0.039     -3.695      0.000      -0.220      -0.067
+periodo               0.0128      0.001     10.231      0.000       0.010       0.015
+Pandemia_Step         0.0902      0.060      1.493      0.135      -0.028       0.209
+Pandemia_Trend       -0.0238      0.003     -7.237      0.000      -0.030      -0.017
+PosPandemia_Step     -0.4069      0.065     -6.218      0.000      -0.535      -0.279
+PosPandemia_Trend    -0.0092      0.002     -5.553      0.000      -0.012      -0.006
+cos1_12               0.0326      0.013      2.539      0.011       0.007       0.058
+sin1_12              -0.0268      0.014     -1.960      0.050      -0.054    6.18e-06
+=====================================================================================
+F00_F09: alpha ≃ 0.0024, phi ≃ 62.10
+Results for F00_F09:
+ AIC: 1815.4507093340944
+BIC recalculado: 1836.9077591510882
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -899.73
+Date:                  Fri, 09 May 2025   Deviance:                       115.18
+Time:                          22:57:24   Pearson chi2:                     113.
+No. Iterations:                       6   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept            -0.5008      0.015    -34.140      0.000      -0.530      -0.472
+periodo               0.0113      0.001     21.276      0.000       0.010       0.012
+Pandemia_Step         0.1560      0.030      5.270      0.000       0.098       0.214
+Pandemia_Trend       -0.0176      0.002     -8.233      0.000      -0.022      -0.013
+PosPandemia_Step     -0.1885      0.036     -5.210      0.000      -0.259      -0.118
+PosPandemia_Trend    -0.0096      0.001     -8.747      0.000      -0.012      -0.007
+cos1_12               0.0044      0.008      0.538      0.590      -0.012       0.021
+sin1_12              -0.0276      0.008     -3.297      0.001      -0.044      -0.011
+=====================================================================================
+Brasil: alpha ≃ 0.0021, phi ≃ 1311.58
+Results for Brasil:
+ AIC: 2480.0746862012893
+BIC recalculado: 2501.531736018283
+                  Generalized Linear Model Regression Results                   
+================================================================================
+Dep. Variable:     mental_health_visits   No. Observations:                  108
+Model:                              GLM   Df Residuals:                      100
+Model Family:          NegativeBinomial   Df Model:                            7
+Link Function:                      Log   Scale:                          1.0000
+Method:                            IRLS   Log-Likelihood:                -1232.0
+Date:                  Fri, 09 May 2025   Deviance:                       128.44
+Time:                          22:57:24   Pearson chi2:                     126.
+No. Iterations:                       6   Pseudo R-squ. (CS):              1.000
+Covariance Type:                    HAC                                         
+=====================================================================================
+                        coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept             2.4629      0.016    154.597      0.000       2.432       2.494
+periodo               0.0130      0.000     26.643      0.000       0.012       0.014
+Pandemia_Step         0.1618      0.043      3.782      0.000       0.078       0.246
+Pandemia_Trend       -0.0172      0.003     -5.927      0.000      -0.023      -0.012
+PosPandemia_Step     -0.1857      0.031     -5.935      0.000      -0.247      -0.124
+PosPandemia_Trend    -0.0054      0.001     -5.047      0.000      -0.008      -0.003
+cos1_12               0.0096      0.008      1.137      0.256      -0.007       0.026
+sin1_12              -0.0276      0.009     -3.213      0.001      -0.045      -0.011
+=====================================================================================

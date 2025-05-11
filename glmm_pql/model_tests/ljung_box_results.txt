@@ -3,174 +3,185 @@
 Região: sul 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.9973
-Lag  9: p-valor = 0.2011
-Lag 12: p-valor = 0.3515
-Lag 24: p-valor = 0.2458
-Lag 25: p-valor = 0.2716
+Lag  1: p-valor = 0.9759
+Lag  9: p-valor = 0.1911
+Lag 12: p-valor = 0.4040
+Lag 24: p-valor = 0.4297
+Lag 25: p-valor = 0.4868
 Gráficos e testes gerados para: sul 
 
 ----------------------------------------
 Região: sudeste 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.0724
-Lag  9: p-valor = 0.6510
-Lag 12: p-valor = 0.8110
-Lag 24: p-valor = 0.9628
-Lag 25: p-valor = 0.9731
+Lag  1: p-valor = 0.8682
+Lag  9: p-valor = 0.0974
+Lag 12: p-valor = 0.1566
+Lag 24: p-valor = 0.0463 *
+Lag 25: p-valor = 0.0609
 Gráficos e testes gerados para: sudeste 
 
 ----------------------------------------
 Região: norte 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.9919
-Lag  9: p-valor = 0.8389
-Lag 12: p-valor = 0.7884
-Lag 24: p-valor = 0.4987
-Lag 25: p-valor = 0.4611
+Lag  1: p-valor = 0.9435
+Lag  9: p-valor = 0.7857
+Lag 12: p-valor = 0.8860
+Lag 24: p-valor = 0.5116
+Lag 25: p-valor = 0.5429
 Gráficos e testes gerados para: norte 
 
 ----------------------------------------
 Região: nordeste 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.9985
-Lag  9: p-valor = 0.3555
-Lag 12: p-valor = 0.2656
-Lag 24: p-valor = 0.6716
-Lag 25: p-valor = 0.7145
+Lag  1: p-valor = 0.9809
+Lag  9: p-valor = 0.8823
+Lag 12: p-valor = 0.9248
+Lag 24: p-valor = 0.9653
+Lag 25: p-valor = 0.9526
 Gráficos e testes gerados para: nordeste 
 
 ----------------------------------------
 Região: centro_oeste 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.9726
-Lag  9: p-valor = 0.3394
-Lag 12: p-valor = 0.4015
-Lag 24: p-valor = 0.4786
-Lag 25: p-valor = 0.5298
+Lag  1: p-valor = 0.8984
+Lag  9: p-valor = 0.1553
+Lag 12: p-valor = 0.2611
+Lag 24: p-valor = 0.2898
+Lag 25: p-valor = 0.3159
 Gráficos e testes gerados para: centro_oeste 
 
 ----------------------------------------
-Região: F99_F99 
+Região: F99_F99_nao_especificado 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.5040
-Lag  9: p-valor = 0.9671
-Lag 12: p-valor = 0.9775
-Lag 24: p-valor = 0.7113
-Lag 25: p-valor = 0.7480
-Gráficos e testes gerados para: F99_F99 
+Lag  1: p-valor = 0.8059
+Lag  9: p-valor = 0.3970
+Lag 12: p-valor = 0.5271
+Lag 24: p-valor = 0.3031
+Lag 25: p-valor = 0.3262
+Gráficos e testes gerados para: F99_F99_nao_especificado 
 
 ----------------------------------------
-Região: F90_F98 
+Região: F90_F98_comportamento 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.8784
-Lag  9: p-valor = 0.2360
-Lag 12: p-valor = 0.0018 **
-Lag 24: p-valor = 0.0000 ***
-Lag 25: p-valor = 0.0001 ***
-Gráficos e testes gerados para: F90_F98 
+Lag  1: p-valor = 0.9237
+Lag  9: p-valor = 0.0834
+Lag 12: p-valor = 0.0082 **
+Lag 24: p-valor = 0.0030 **
+Lag 25: p-valor = 0.0041 **
+Gráficos e testes gerados para: F90_F98_comportamento 
 
 ----------------------------------------
-Região: F80_F89 
+Região: F80_F89_desenvolvimento 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.9531
-Lag  9: p-valor = 0.0268 *
-Lag 12: p-valor = 0.0000 ***
-Lag 24: p-valor = 0.0000 ***
-Lag 25: p-valor = 0.0000 ***
-Gráficos e testes gerados para: F80_F89 
+Lag  1: p-valor = 0.6813
+Lag  9: p-valor = 0.0629
+Lag 12: p-valor = 0.0013 **
+Lag 24: p-valor = 0.0001 ***
+Lag 25: p-valor = 0.0002 ***
+Gráficos e testes gerados para: F80_F89_desenvolvimento 
 
 ----------------------------------------
-Região: F70_F79 
+Região: F70_F79_retardado 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.7933
-Lag  9: p-valor = 0.5464
-Lag 12: p-valor = 0.5449
-Lag 24: p-valor = 0.1624
-Lag 25: p-valor = 0.0850
-Gráficos e testes gerados para: F70_F79 
+Lag  1: p-valor = 0.9988
+Lag  9: p-valor = 0.4205
+Lag 12: p-valor = 0.4449
+Lag 24: p-valor = 0.4355
+Lag 25: p-valor = 0.3122
+Gráficos e testes gerados para: F70_F79_retardado 
 
 ----------------------------------------
-Região: F60_F69 
+Região: F60_F69_personalidade 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.5637
-Lag  9: p-valor = 0.5111
-Lag 12: p-valor = 0.4442
-Lag 24: p-valor = 0.2795
-Lag 25: p-valor = 0.3265
-Gráficos e testes gerados para: F60_F69 
+Lag  1: p-valor = 0.9559
+Lag  9: p-valor = 0.7263
+Lag 12: p-valor = 0.6965
+Lag 24: p-valor = 0.2340
+Lag 25: p-valor = 0.2793
+Gráficos e testes gerados para: F60_F69_personalidade 
 
 ----------------------------------------
-Região: F50_F59 
+Região: F50_F59_fisiologicos 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.9803
-Lag  9: p-valor = 0.1885
-Lag 12: p-valor = 0.1006
-Lag 24: p-valor = 0.1586
-Lag 25: p-valor = 0.1748
-Gráficos e testes gerados para: F50_F59 
+Lag  1: p-valor = 0.9303
+Lag  9: p-valor = 0.6361
+Lag 12: p-valor = 0.6917
+Lag 24: p-valor = 0.7436
+Lag 25: p-valor = 0.7808
+Gráficos e testes gerados para: F50_F59_fisiologicos 
 
 ----------------------------------------
-Região: F40_F48 
+Região: F40_F48_ansiosos 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.9226
-Lag  9: p-valor = 0.7525
-Lag 12: p-valor = 0.6762
-Lag 24: p-valor = 0.6181
-Lag 25: p-valor = 0.6635
-Gráficos e testes gerados para: F40_F48 
+Lag  1: p-valor = 0.9227
+Lag  9: p-valor = 0.2607
+Lag 12: p-valor = 0.4426
+Lag 24: p-valor = 0.4366
+Lag 25: p-valor = 0.4928
+Gráficos e testes gerados para: F40_F48_ansiosos 
 
 ----------------------------------------
-Região: F30_F39 
+Região: F30_F39_humor 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.9488
-Lag  9: p-valor = 0.4804
-Lag 12: p-valor = 0.4380
-Lag 24: p-valor = 0.2926
-Lag 25: p-valor = 0.3102
-Gráficos e testes gerados para: F30_F39 
+Lag  1: p-valor = 0.9252
+Lag  9: p-valor = 0.9560
+Lag 12: p-valor = 0.9583
+Lag 24: p-valor = 0.6532
+Lag 25: p-valor = 0.6961
+Gráficos e testes gerados para: F30_F39_humor 
 
 ----------------------------------------
-Região: F20_F29 
+Região: F20_F29_esquizofrenia_etc 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.0793
-Lag  9: p-valor = 0.5189
-Lag 12: p-valor = 0.5669
-Lag 24: p-valor = 0.8879
-Lag 25: p-valor = 0.8997
-Gráficos e testes gerados para: F20_F29 
+Lag  1: p-valor = 0.9274
+Lag  9: p-valor = 0.7942
+Lag 12: p-valor = 0.7999
+Lag 24: p-valor = 0.6164
+Lag 25: p-valor = 0.6188
+Gráficos e testes gerados para: F20_F29_esquizofrenia_etc 
 
 ----------------------------------------
-Região: F00_F09 
+Região: F10_F19_uso_substancia 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.9808
-Lag  9: p-valor = 0.8288
-Lag 12: p-valor = 0.9254
-Lag 24: p-valor = 0.8789
-Lag 25: p-valor = 0.9057
-Gráficos e testes gerados para: F00_F09 
+Lag  1: p-valor = 0.9122
+Lag  9: p-valor = 0.4879
+Lag 12: p-valor = 0.4814
+Lag 24: p-valor = 0.5442
+Lag 25: p-valor = 0.5035
+Gráficos e testes gerados para: F10_F19_uso_substancia 
+
+----------------------------------------
+Região: F00_F09_transtornos_organicos 
+Testes Ljung-Box para resíduos:
+
+Lag  1: p-valor = 0.9685
+Lag  9: p-valor = 0.5924
+Lag 12: p-valor = 0.7535
+Lag 24: p-valor = 0.7509
+Lag 25: p-valor = 0.7886
+Gráficos e testes gerados para: F00_F09_transtornos_organicos 
 
 ----------------------------------------
 Região: Brasil 
 Testes Ljung-Box para resíduos:
 
-Lag  1: p-valor = 0.8315
-Lag  9: p-valor = 0.6750
-Lag 12: p-valor = 0.7289
-Lag 24: p-valor = 0.5341
-Lag 25: p-valor = 0.5676
+Lag  1: p-valor = 0.9256
+Lag  9: p-valor = 0.6580
+Lag 12: p-valor = 0.8068
+Lag 24: p-valor = 0.4604
+Lag 25: p-valor = 0.5177
 Gráficos e testes gerados para: Brasil 
