@@ -1,0 +1,816 @@
+=============================================Rodando: sul 
+Resumo para sul:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 1.044171e-06 1.031128
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+      Phi1     Theta1 
+-0.1631258  0.6318980 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                      Value  Std.Error DF   t-value p-value
+(Intercept)        3.198563 0.02958437 64 108.11666  0.0000
+periodo            0.004784 0.00182438 64   2.62243  0.0109
+Pandemia_Step      0.150168 0.04046651 64   3.71091  0.0004
+Pandemia_Trend    -0.015665 0.00288984 64  -5.42054  0.0000
+PosPandemia_Step  -0.209045 0.07711512 64  -2.71082  0.0086
+PosPandemia_Trend  0.007311 0.00319467 64   2.28862  0.0254
+cos1_12           -0.006430 0.01285152 64  -0.50033  0.6186
+sin1_12           -0.007995 0.01280107 64  -0.62452  0.5345
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.871                                          
+Pandemia_Step      0.305 -0.542                                   
+Pandemia_Trend     0.569 -0.661 -0.140                            
+PosPandemia_Step   0.674 -0.881  0.539  0.597                     
+PosPandemia_Trend  0.481 -0.551  0.302  0.346  0.171              
+cos1_12           -0.001 -0.043  0.187 -0.122  0.106 -0.062       
+sin1_12           -0.112  0.105 -0.080 -0.030 -0.138  0.083 -0.023
+
+Standardized Within-Group Residuals:
+        Min          Q1         Med          Q3         Max 
+-3.89763410 -0.64872661 -0.08200433  0.67871067  2.09387523 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: sudeste 
+Resumo para sudeste:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 9.184817e-07 1.070233
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+    Phi1   Theta1 
+0.179477 0.213151 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF   t-value p-value
+(Intercept)        2.8856482 0.02782043 64 103.72407  0.0000
+periodo            0.0131205 0.00171397 64   7.65505  0.0000
+Pandemia_Step      0.1583850 0.03792523 64   4.17624  0.0001
+Pandemia_Trend    -0.0168302 0.00273125 64  -6.16210  0.0000
+PosPandemia_Step  -0.2517578 0.07254017 64  -3.47060  0.0009
+PosPandemia_Trend -0.0031805 0.00299753 64  -1.06105  0.2927
+cos1_12           -0.0063568 0.01177413 64  -0.53990  0.5911
+sin1_12           -0.0207270 0.01173520 64  -1.76622  0.0821
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.868                                          
+Pandemia_Step      0.297 -0.536                                   
+Pandemia_Trend     0.568 -0.664 -0.141                            
+PosPandemia_Step   0.669 -0.881  0.533  0.603                     
+PosPandemia_Trend  0.481 -0.552  0.301  0.345  0.172              
+cos1_12           -0.008 -0.038  0.189 -0.127  0.105 -0.072       
+sin1_12           -0.107  0.101 -0.078 -0.027 -0.134  0.085 -0.023
+
+Standardized Within-Group Residuals:
+        Min          Q1         Med          Q3         Max 
+-4.67262242 -0.40105461  0.03077626  0.64573987  2.12335240 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: norte 
+Resumo para norte:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 1.511316e-06 1.273675
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+     Phi1    Theta1 
+0.2706079 0.5566330 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF  t-value p-value
+(Intercept)        2.2267453 0.05058050 64 44.02379  0.0000
+periodo            0.0086520 0.00300657 64  2.87768  0.0054
+Pandemia_Step      0.1386400 0.05760925 64  2.40656  0.0190
+Pandemia_Trend    -0.0054529 0.00493526 64 -1.10488  0.2733
+PosPandemia_Step   0.0535243 0.12620654 64  0.42410  0.6729
+PosPandemia_Trend  0.0079142 0.00514501 64  1.53823  0.1289
+cos1_12           -0.0284928 0.02098414 64 -1.35783  0.1793
+sin1_12           -0.0179784 0.02116750 64 -0.84934  0.3989
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.865                                          
+Pandemia_Step      0.233 -0.454                                   
+Pandemia_Trend     0.599 -0.739 -0.108                            
+PosPandemia_Step   0.658 -0.883  0.433  0.733                     
+PosPandemia_Trend  0.487 -0.556  0.304  0.308  0.193              
+cos1_12           -0.040  0.004  0.143 -0.103  0.052 -0.078       
+sin1_12           -0.089  0.082 -0.051 -0.040 -0.106  0.080 -0.009
+
+Standardized Within-Group Residuals:
+       Min         Q1        Med         Q3        Max 
+-2.2077995 -0.5371996  0.0222896  0.5073878  3.1648518 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: nordeste 
+Resumo para nordeste:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 1.160091e-06 1.153615
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+     Phi1    Theta1 
+0.2467045 0.3446505 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF  t-value p-value
+(Intercept)        2.2637558 0.03714061 64 60.95095  0.0000
+periodo            0.0155655 0.00225714 64  6.89614  0.0000
+Pandemia_Step      0.3216610 0.04746269 64  6.77713  0.0000
+Pandemia_Trend    -0.0135946 0.00364521 64 -3.72945  0.0004
+PosPandemia_Step   0.0261961 0.09518253 64  0.27522  0.7840
+PosPandemia_Trend  0.0020350 0.00391868 64  0.51931  0.6053
+cos1_12            0.0265965 0.01549744 64  1.71619  0.0910
+sin1_12           -0.0207008 0.01552937 64 -1.33301  0.1873
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.866                                          
+Pandemia_Step      0.270 -0.505                                   
+Pandemia_Trend     0.581 -0.695 -0.127                            
+PosPandemia_Step   0.663 -0.881  0.494  0.657                     
+PosPandemia_Trend  0.484 -0.555  0.304  0.330  0.182              
+cos1_12           -0.024 -0.019  0.170 -0.119  0.083 -0.078       
+sin1_12           -0.097  0.091 -0.067 -0.032 -0.121  0.083 -0.017
+
+Standardized Within-Group Residuals:
+       Min         Q1        Med         Q3        Max 
+-2.4574875 -0.6321506 -0.0970912  0.7382338  2.7173224 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: centro_oeste 
+Resumo para centro_oeste:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 9.131983e-07 1.010505
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+       Phi1      Theta1 
+-0.01556231  0.55371330 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF  t-value p-value
+(Intercept)        3.0054430 0.03805705 64 78.97205  0.0000
+periodo            0.0076442 0.00233451 64  3.27443  0.0017
+Pandemia_Step      0.1050977 0.05083972 64  2.06724  0.0428
+Pandemia_Trend    -0.0113950 0.00371967 64 -3.06344  0.0032
+PosPandemia_Step  -0.1259653 0.09851609 64 -1.27863  0.2056
+PosPandemia_Trend  0.0001898 0.00407488 64  0.04657  0.9630
+cos1_12           -0.0184678 0.01640898 64 -1.12547  0.2646
+sin1_12           -0.0348315 0.01638466 64 -2.12586  0.0374
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.870                                          
+Pandemia_Step      0.294 -0.530                                   
+Pandemia_Trend     0.574 -0.673 -0.134                            
+PosPandemia_Step   0.671 -0.881  0.524  0.618                     
+PosPandemia_Trend  0.482 -0.553  0.304  0.341  0.176              
+cos1_12           -0.009 -0.034  0.180 -0.120  0.097 -0.067       
+sin1_12           -0.107  0.101 -0.075 -0.032 -0.132  0.083 -0.021
+
+Standardized Within-Group Residuals:
+        Min          Q1         Med          Q3         Max 
+-4.07410427 -0.44518397  0.06404969  0.55024821  2.52044435 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: F99_F99_nao_especificado 
+Resumo para F99_F99_nao_especificado:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 2.306703e-06 1.125846
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+      Phi1     Theta1 
+ 0.7469193 -0.2460501 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF    t-value p-value
+(Intercept)       -1.3414148 0.06829267 64 -19.642149  0.0000
+periodo            0.0239798 0.00395784 64   6.058817  0.0000
+Pandemia_Step      0.4487200 0.06901837 64   6.501458  0.0000
+Pandemia_Trend    -0.0448641 0.00676090 64  -6.635814  0.0000
+PosPandemia_Step  -0.6522870 0.16870488 64  -3.866438  0.0003
+PosPandemia_Trend -0.0112266 0.00660968 64  -1.698516  0.0943
+cos1_12            0.0133940 0.01907417 64   0.702206  0.4851
+sin1_12            0.0366204 0.01893378 64   1.934130  0.0575
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.839                                          
+Pandemia_Step      0.157 -0.374                                   
+Pandemia_Trend     0.574 -0.770 -0.115                            
+PosPandemia_Step   0.606 -0.877  0.358  0.796                     
+PosPandemia_Trend  0.490 -0.566  0.255  0.302  0.208              
+cos1_12           -0.056  0.008  0.195 -0.119  0.062 -0.108       
+sin1_12           -0.053  0.052 -0.057 -0.015 -0.081  0.090 -0.019
+
+Standardized Within-Group Residuals:
+         Min           Q1          Med           Q3          Max 
+-1.958475348 -0.689522124 -0.004599514  0.522205265  2.683389907 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: F90_F98_comportamento 
+Resumo para F90_F98_comportamento:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 9.617859e-07 1.094651
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+       Phi1      Theta1 
+-0.01253388  0.43551647 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                        Value  Std.Error DF   t-value p-value
+(Intercept)       -0.07344750 0.03762022 64 -1.952341  0.0553
+periodo            0.00209241 0.00232261 64  0.900886  0.3710
+Pandemia_Step     -0.20914429 0.05179681 64 -4.037783  0.0001
+Pandemia_Trend     0.00877011 0.00368536 64  2.379719  0.0203
+PosPandemia_Step   0.00301788 0.09822479 64  0.030724  0.9756
+PosPandemia_Trend  0.02075098 0.00405923 64  5.112050  0.0000
+cos1_12           -0.04770909 0.01620043 64 -2.944928  0.0045
+sin1_12           -0.01541667 0.01613442 64 -0.955514  0.3429
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.870                                          
+Pandemia_Step      0.304 -0.542                                   
+Pandemia_Trend     0.567 -0.658 -0.144                            
+PosPandemia_Step   0.673 -0.881  0.540  0.593                     
+PosPandemia_Trend  0.482 -0.552  0.302  0.348  0.173              
+cos1_12           -0.002 -0.043  0.189 -0.125  0.108 -0.066       
+sin1_12           -0.110  0.104 -0.079 -0.029 -0.137  0.084 -0.024
+
+Standardized Within-Group Residuals:
+       Min         Q1        Med         Q3        Max 
+-4.0006129 -0.5890403  0.1228481  0.6150951  2.3283302 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: F80_F89_desenvolvimento 
+Resumo para F80_F89_desenvolvimento:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 1.271638e-06 1.614543
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+     Phi1    Theta1 
+0.2756956 0.4267942 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF   t-value p-value
+(Intercept)       -0.1796644 0.07202743 64 -2.494388  0.0152
+periodo            0.0155303 0.00433325 64  3.583973  0.0007
+Pandemia_Step     -0.7948038 0.08785803 64 -9.046455  0.0000
+Pandemia_Trend     0.0309816 0.00706806 64  4.383329  0.0000
+PosPandemia_Step  -0.1409478 0.18233153 64 -0.773030  0.4424
+PosPandemia_Trend  0.0066864 0.00747704 64  0.894254  0.3745
+cos1_12           -0.0661079 0.02985011 64 -2.214660  0.0304
+sin1_12           -0.0348753 0.03000811 64 -1.162195  0.2495
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.865                                          
+Pandemia_Step      0.251 -0.480                                   
+Pandemia_Trend     0.589 -0.714 -0.123                            
+PosPandemia_Step   0.660 -0.882  0.464  0.691                     
+PosPandemia_Trend  0.486 -0.556  0.304  0.319  0.187              
+cos1_12           -0.033 -0.008  0.158 -0.112  0.069 -0.080       
+sin1_12           -0.092  0.085 -0.058 -0.036 -0.113  0.082 -0.013
+
+Standardized Within-Group Residuals:
+       Min         Q1        Med         Q3        Max 
+-2.9351452 -0.4307838  0.2011686  0.7504412  2.8240762 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: F70_F79_retardado 
+Resumo para F70_F79_retardado:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 9.811759e-07 1.085846
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+      Phi1     Theta1 
+-0.1027213  0.3861680 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF    t-value p-value
+(Intercept)       -0.9572369 0.03338875 64 -28.669443  0.0000
+periodo            0.0073472 0.00207252 64   3.545070  0.0007
+Pandemia_Step     -0.2291855 0.04721389 64  -4.854197  0.0000
+Pandemia_Trend     0.0067297 0.00326347 64   2.062119  0.0433
+PosPandemia_Step  -0.1494775 0.08772665 64  -1.703900  0.0933
+PosPandemia_Trend  0.0053302 0.00361816 64   1.473181  0.1456
+cos1_12           -0.0095681 0.01439653 64  -0.664612  0.5087
+sin1_12           -0.0205322 0.01428551 64  -1.437273  0.1555
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.872                                          
+Pandemia_Step      0.318 -0.555                                   
+Pandemia_Trend     0.560 -0.643 -0.152                            
+PosPandemia_Step   0.677 -0.882  0.557  0.568                     
+PosPandemia_Trend  0.482 -0.552  0.299  0.356  0.172              
+cos1_12            0.009 -0.054  0.199 -0.128  0.120 -0.061       
+sin1_12           -0.115  0.109 -0.084 -0.028 -0.144  0.085 -0.027
+
+Standardized Within-Group Residuals:
+        Min          Q1         Med          Q3         Max 
+-4.25187651 -0.35947475 -0.01262227  0.46204628  3.10830473 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: F60_F69_personalidade 
+Resumo para F60_F69_personalidade:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 1.049011e-06  1.01959
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+      Phi1     Theta1 
+0.20567874 0.06747619 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF   t-value p-value
+(Intercept)       -2.1922877 0.02977113 64 -73.63803  0.0000
+periodo            0.0210129 0.00182880 64  11.49000  0.0000
+Pandemia_Step      0.0562030 0.04067380 64   1.38180  0.1718
+Pandemia_Trend    -0.0169457 0.00286300 64  -5.91885  0.0000
+PosPandemia_Step  -0.4539447 0.07672088 64  -5.91683  0.0000
+PosPandemia_Trend -0.0087580 0.00312068 64  -2.80645  0.0066
+cos1_12           -0.0059186 0.01224866 64  -0.48320  0.6306
+sin1_12           -0.0385011 0.01214401 64  -3.17038  0.0023
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.873                                          
+Pandemia_Step      0.310 -0.547                                   
+Pandemia_Trend     0.571 -0.659 -0.139                            
+PosPandemia_Step   0.680 -0.886  0.550  0.592                     
+PosPandemia_Trend  0.495 -0.566  0.307  0.364  0.197              
+cos1_12            0.007 -0.050  0.198 -0.127  0.117 -0.066       
+sin1_12           -0.104  0.101 -0.076 -0.029 -0.136  0.087 -0.026
+
+Standardized Within-Group Residuals:
+        Min          Q1         Med          Q3         Max 
+-4.21001082 -0.49678941  0.08332653  0.64188773  2.11910011 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: F50_F59_fisiologicos 
+Resumo para F50_F59_fisiologicos:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 7.270545e-07 1.038036
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+       Phi1      Theta1 
+-0.09307574  0.44903325 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF    t-value p-value
+(Intercept)       -0.5142579 0.02362643 64 -21.766216  0.0000
+periodo            0.0109034 0.00146216 64   7.457036  0.0000
+Pandemia_Step      0.3709305 0.03285191 64  11.290987  0.0000
+Pandemia_Trend    -0.0317582 0.00230156 64 -13.798582  0.0000
+PosPandemia_Step  -0.3837117 0.06181710 64  -6.207209  0.0000
+PosPandemia_Trend -0.0082598 0.00255117 64  -3.237666  0.0019
+cos1_12           -0.0278860 0.01016720 64  -2.742738  0.0079
+sin1_12           -0.0193251 0.01009850 64  -1.913660  0.0601
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.872                                          
+Pandemia_Step      0.314 -0.552                                   
+Pandemia_Trend     0.565 -0.651 -0.142                            
+PosPandemia_Step   0.676 -0.882  0.553  0.580                     
+PosPandemia_Trend  0.483 -0.553  0.302  0.354  0.173              
+cos1_12            0.006 -0.050  0.195 -0.126  0.115 -0.063       
+sin1_12           -0.112  0.107 -0.083 -0.028 -0.141  0.084 -0.026
+
+Standardized Within-Group Residuals:
+       Min         Q1        Med         Q3        Max 
+-4.0808752 -0.6790643 -0.1263452  0.8749782  1.9814195 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: F40_F48_ansiosos 
+Resumo para F40_F48_ansiosos:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 1.155144e-06 1.076671
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+     Phi1    Theta1 
+0.1395751 0.3700018 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF  t-value p-value
+(Intercept)        1.7759090 0.03093461 64 57.40847  0.0000
+periodo            0.0143512 0.00189614 64  7.56864  0.0000
+Pandemia_Step      0.2797830 0.04116849 64  6.79605  0.0000
+Pandemia_Trend    -0.0146067 0.00303370 64 -4.81481  0.0000
+PosPandemia_Step  -0.0553711 0.08009298 64 -0.69133  0.4919
+PosPandemia_Trend  0.0003761 0.00330901 64  0.11367  0.9099
+cos1_12            0.0020748 0.01314908 64  0.15779  0.8751
+sin1_12           -0.0190231 0.01313765 64 -1.44798  0.1525
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.868                                          
+Pandemia_Step      0.288 -0.525                                   
+Pandemia_Trend     0.574 -0.676 -0.135                            
+PosPandemia_Step   0.668 -0.881  0.519  0.623                     
+PosPandemia_Trend  0.482 -0.553  0.303  0.339  0.176              
+cos1_12           -0.013 -0.031  0.180 -0.122  0.095 -0.072       
+sin1_12           -0.104  0.098 -0.074 -0.030 -0.130  0.084 -0.020
+
+Standardized Within-Group Residuals:
+          Min            Q1           Med            Q3           Max 
+-4.233368e+00 -6.642678e-01  7.680914e-05  6.912629e-01  2.015001e+00 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: F30_F39_humor 
+Resumo para F30_F39_humor:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 9.634431e-07 1.118446
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+     Phi1    Theta1 
+0.1195666 0.2776325 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF  t-value p-value
+(Intercept)        1.6191463 0.02980011 64 54.33356  0.0000
+periodo            0.0079686 0.00183792 64  4.33570  0.0001
+Pandemia_Step      0.2056743 0.04081272 64  5.03947  0.0000
+Pandemia_Trend    -0.0223262 0.00292301 64 -7.63808  0.0000
+PosPandemia_Step  -0.3053181 0.07778848 64 -3.92498  0.0002
+PosPandemia_Trend -0.0050179 0.00321653 64 -1.56005  0.1237
+cos1_12            0.0148052 0.01270446 64  1.16535  0.2482
+sin1_12           -0.0250233 0.01265790 64 -1.97689  0.0524
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.869                                          
+Pandemia_Step      0.301 -0.539                                   
+Pandemia_Trend     0.567 -0.661 -0.142                            
+PosPandemia_Step   0.670 -0.881  0.536  0.598                     
+PosPandemia_Trend  0.481 -0.552  0.301  0.346  0.171              
+cos1_12           -0.005 -0.040  0.189 -0.126  0.106 -0.070       
+sin1_12           -0.108  0.102 -0.079 -0.028 -0.136  0.085 -0.023
+
+Standardized Within-Group Residuals:
+        Min          Q1         Med          Q3         Max 
+-3.56873748 -0.55689783  0.01959621  0.41926913  3.31882014 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: F20_F29_esquizofrenia_etc 
+Resumo para F20_F29_esquizofrenia_etc:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+        (Intercept) Residual
+StdDev:   1.255e-06 1.155209
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+     Phi1    Theta1 
+0.3179899 0.3129489 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                        Value  Std.Error DF   t-value p-value
+(Intercept)        0.25998478 0.03607763 64  7.206259  0.0000
+periodo            0.00649497 0.00217933 64  2.980261  0.0041
+Pandemia_Step      0.17192683 0.04478379 64  3.839042  0.0003
+Pandemia_Trend    -0.01746336 0.00354517 64 -4.925955  0.0000
+PosPandemia_Step  -0.23925252 0.09184536 64 -2.604950  0.0114
+PosPandemia_Trend  0.00288107 0.00376758 64  0.764702  0.4473
+cos1_12            0.01918280 0.01477724 64  1.298132  0.1989
+sin1_12           -0.01884701 0.01482944 64 -1.270918  0.2084
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.864                                          
+Pandemia_Step      0.257 -0.489                                   
+Pandemia_Trend     0.585 -0.708 -0.123                            
+PosPandemia_Step   0.659 -0.881  0.475  0.679                     
+PosPandemia_Trend  0.485 -0.556  0.303  0.324  0.185              
+cos1_12           -0.031 -0.011  0.165 -0.117  0.075 -0.082       
+sin1_12           -0.092  0.086 -0.062 -0.032 -0.115  0.083 -0.015
+
+Standardized Within-Group Residuals:
+       Min         Q1        Med         Q3        Max 
+-2.4532333 -0.7198765 -0.1340254  0.7393222  3.2198279 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: F10_F19_uso_substancia 
+Resumo para F10_F19_uso_substancia:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept)  Residual
+StdDev: 8.286254e-07 0.9910132
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+     Phi1    Theta1 
+-0.729007  0.952436 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF   t-value p-value
+(Intercept)       -0.9743166 0.02364444 64 -41.20701  0.0000
+periodo            0.0085294 0.00146649 64   5.81620  0.0000
+Pandemia_Step      0.2265800 0.03295188 64   6.87609  0.0000
+Pandemia_Trend    -0.0169822 0.00228390 64  -7.43563  0.0000
+PosPandemia_Step  -0.1130630 0.06171079 64  -1.83214  0.0716
+PosPandemia_Trend  0.0068479 0.00256450 64   2.67027  0.0096
+cos1_12            0.0059829 0.01022102 64   0.58535  0.5604
+sin1_12           -0.0377232 0.01012928 64  -3.72417  0.0004
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.875                                          
+Pandemia_Step      0.327 -0.562                                   
+Pandemia_Trend     0.567 -0.651 -0.132                            
+PosPandemia_Step   0.683 -0.883  0.560  0.578                     
+PosPandemia_Trend  0.484 -0.556  0.311  0.361  0.177              
+cos1_12            0.016 -0.058  0.196 -0.120  0.119 -0.051       
+sin1_12           -0.118  0.111 -0.084 -0.031 -0.146  0.083 -0.028
+
+Standardized Within-Group Residuals:
+       Min         Q1        Med         Q3        Max 
+-3.9893849 -0.5020704  0.1024480  0.4722629  2.6312776 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: F00_F09_transtornos_organicos 
+Resumo para F00_F09_transtornos_organicos:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+         (Intercept) Residual
+StdDev: 9.290319e-07 1.040101
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+      Phi1     Theta1 
+-0.2585898  0.6291751 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                        Value  Std.Error DF   t-value p-value
+(Intercept)       -0.18340510 0.02585578 64 -7.093389  0.0000
+periodo            0.00818564 0.00160164 64  5.110779  0.0000
+Pandemia_Step      0.19585537 0.03610912 64  5.423986  0.0000
+Pandemia_Trend    -0.01469032 0.00252045 64 -5.828440  0.0000
+PosPandemia_Step  -0.11331437 0.06774440 64 -1.672675  0.0993
+PosPandemia_Trend -0.00263898 0.00279992 64 -0.942519  0.3495
+cos1_12            0.00112504 0.01121384 64  0.100326  0.9204
+sin1_12           -0.01966973 0.01113696 64 -1.766167  0.0821
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.872                                          
+Pandemia_Step      0.316 -0.554                                   
+Pandemia_Trend     0.564 -0.649 -0.145                            
+PosPandemia_Step   0.677 -0.882  0.554  0.577                     
+PosPandemia_Trend  0.481 -0.551  0.301  0.354  0.171              
+cos1_12            0.007 -0.051  0.195 -0.125  0.115 -0.060       
+sin1_12           -0.115  0.109 -0.084 -0.029 -0.142  0.084 -0.026
+
+Standardized Within-Group Residuals:
+        Min          Q1         Med          Q3         Max 
+-4.28951565 -0.61149016  0.03884408  0.59889828  2.33647121 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
+=============================================Rodando: Brasil 
+Resumo para Brasil:
+Linear mixed-effects model fit by maximum likelihood
+  Data: data 
+  AIC BIC logLik
+   NA  NA     NA
+
+Random effects:
+ Formula: ~1 | ..group..
+        (Intercept) Residual
+StdDev: 8.54262e-07 1.077774
+
+Correlation Structure: ARMA(1,1)
+ Formula: ~periodo | ..group.. 
+ Parameter estimate(s):
+      Phi1     Theta1 
+0.04719667 0.36995960 
+Variance function:
+ Structure: fixed weights
+ Formula: ~invwt 
+Fixed effects:  mental_health_visits ~ periodo + Pandemia_Step + Pandemia_Trend +      PosPandemia_Step + PosPandemia_Trend + cos1_12 + sin1_12 +      offset(offset) 
+                       Value  Std.Error DF   t-value p-value
+(Intercept)        2.8068020 0.02674669 64 104.94018  0.0000
+periodo            0.0109372 0.00165028 64   6.62752  0.0000
+Pandemia_Step      0.1789858 0.03668492 64   4.87900  0.0000
+Pandemia_Trend    -0.0146611 0.00262103 64  -5.59365  0.0000
+PosPandemia_Step  -0.1581236 0.06983706 64  -2.26418  0.0270
+PosPandemia_Trend  0.0014067 0.00288986 64   0.48677  0.6281
+cos1_12           -0.0014827 0.01148172 64  -0.12914  0.8977
+sin1_12           -0.0191242 0.01143900 64  -1.67185  0.0994
+ Correlation: 
+                  (Intr) period Pndm_S Pndm_T PsPn_S PsPn_T cs1_12
+periodo           -0.870                                          
+Pandemia_Step      0.302 -0.541                                   
+Pandemia_Trend     0.567 -0.660 -0.142                            
+PosPandemia_Step   0.671 -0.881  0.538  0.596                     
+PosPandemia_Trend  0.480 -0.551  0.301  0.346  0.171              
+cos1_12           -0.004 -0.041  0.189 -0.125  0.107 -0.068       
+sin1_12           -0.110  0.104 -0.080 -0.028 -0.136  0.084 -0.024
+
+Standardized Within-Group Residuals:
+        Min          Q1         Med          Q3         Max 
+-4.36327574 -0.62782297  0.05173769  0.60373847  2.49944883 
+
+Number of Observations: 72
+Number of Groups: 1 
+
+
